@@ -8,7 +8,7 @@ export default function Home() {
       </h1>
       <p><Link href="/meals">meals</Link></p>
       <p><Link href="/meals/share">Share Meals</Link></p>
-      <p><Link href="/commuity">Community</Link></p>
+      <p><Link href="/community">Community</Link></p>
     </main>
   );
 }
